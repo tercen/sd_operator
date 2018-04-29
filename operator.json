@@ -1,9 +1,9 @@
 {
-  "name": "Mean",
-  "description": "Compute the mean per cell",
+  "name": "Standard deviation",
+  "description": "Compute the standard deviation per cell",
   "tags": ["basic statistics"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/mean_operator"],
+  "urls": ["https://github.com/tercen/sd_operator"],
   "properties": []
 }
 
