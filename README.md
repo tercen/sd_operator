@@ -1,16 +1,28 @@
-# Standard deviation : sd
+# sd operator
 
-Caculates the standard deviation
+##### Description
+`sd` operator computes the standard deviation of a set of data points.
 
-# Repository
-```
-https://github.com/tercen/sd_operator.git
-```
+##### Usage
 
-# Feedback
+Input projection|.
+---|---
+`y-axis`        | is the input data for the sd, per cell 
 
-* Log feedback/issues at (https://github.com/tercen/sd_operator/issues)
+Output relations|.
+---|---
+`sd`          | numeric, sd of the input values
 
-# Documentation
+##### Details
+The operator takes all the values of a cell and calculates their standard deviation. The computation is done per cell. There is one value calculated and returned for each of the input cell.
 
-* see doc directory
+#### References
+
+
+##### See Also
+
+[mean_operator](https://github.com/tercen/mean_operator), [sum_operator](https://github.com/tercen/sum_operator)
+
+
+#### Examples
+
