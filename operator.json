@@ -1,6 +1,6 @@
 {
   "name": "Standard Deviation",
-  "description": "Calculates the Square Root of the variance from the Mean of a data set.",
+  "description": "Computes the standard deviantion (SD) of a distribution, a measure of dispersion.",
   "tags": [
     "descriptive statistics"
   ],
