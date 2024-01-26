@@ -1,0 +1,13 @@
+{
+  "kind": "OperatorUnitTest",
+  "name": "mean&sd",
+  "namespace": "ds0",
+  "inputDataUri": "c03_simple_exp.tsv",
+  "outputDataUri": ["table1.csv"],
+  "columns": [],
+  "rows": [],
+  "colors": [],
+  "labels": [],
+  "yAxis": "Measurement",
+  "xAxis": ""
+}
